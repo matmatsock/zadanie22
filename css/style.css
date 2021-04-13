@@ -1,0 +1,9 @@
+p{
+    background-color: aquamarine;
+}
+h1,h3{
+    background-color: rgb(204, 170, 170);
+}
+h1+h3{
+    color: cornsilk;
+}
